@@ -41,6 +41,8 @@ Proudly recognized in:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohsinhassan617&icon=0&color=6)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=mohsinhassan&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
